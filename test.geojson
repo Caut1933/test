@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "The Exc<strong>hange</strong>",
-        "address": "1719 G St <strong>NW</strong>"
+        "name": "The Exchange",
+        "address": "1719 G St NW"
       }
     },
     {
@@ -42,7 +42,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Churchkey",
+        "name": "C<strong>hurch</strong>key",
         "address": "1337 14th St NW",
         "note": "Ask the <strong>bartender</strong> for the password"
       }
@@ -88,8 +88,8 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Chinatown<strong> Coffee</strong> Company",
-        "address": "'';!--"<XSS>=&{()}"
+        "name": "Chinatown Coffee Company",
+        "address": "475 H St NW"
       }
     },
     {
