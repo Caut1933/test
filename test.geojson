@@ -44,7 +44,7 @@
         "marker-symbol": "bar",
         "name": "C<strong>hurch</strong>key",
         "address": "1337 14th St NW",
-        "note": "Ask the <strong>bartender</strong></td> for the password"
+        "note": "Ask the <a href=\"javascript:alert(/xss/)\">bartender</a> for the password"
       }
     },
     {
