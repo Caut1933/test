@@ -44,7 +44,7 @@
         "marker-symbol": "bar",
         "name": "C<strong>hurch</strong>key",
         "address": "1337 14th St NW",
-        "note": "Ask the bartender <scri<script>pt>alert(/xss/);</scr<script>ipt> for the password"
+        "<note>": "Ask the bartender href=http://google.com>xxs link</a> for the password"
       }
     },
     {
