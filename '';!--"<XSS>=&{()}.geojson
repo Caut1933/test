@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar'';!--\"<XSS>=&{()}",
+        "marker-symbol": "bar",
         "name": "The Exchange",
         "address": "1719 G St NW"
       }
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "bar\" onerror=alert(/xss/) />",
         "name": "C<strong>hurch</strong>key",
         "address": "1337 14th St NW",
         "<note>": "Ask the bartender href=http://google.com>xxs link</a> for the password"
